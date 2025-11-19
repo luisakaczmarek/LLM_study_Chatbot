@@ -1,6 +1,4 @@
-# LLM_study_Chatbot
-
-## **Assignment Part 2: LLM Grader Chatbot**
+# **LLM Grader Chatbot**
 
 
 This project is a Streamlit web app that evaluates student answers against reference answers using NLP techniques (TF-IDF, token overlap, sentiment, etc.).
