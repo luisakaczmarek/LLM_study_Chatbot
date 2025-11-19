@@ -35,7 +35,7 @@ This approach prioritizes interpretability and reliability which is important fo
 
 ```bash
 git clone https://github.com/luisakaczmarek/LLM_study_Chatbot.git
-cd <your-repo>/Part2
+cd LLM_study_Chatbot/Part2
 ```
 
 ---
